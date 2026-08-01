@@ -5,12 +5,12 @@ class CourseRequest(BaseModel):
     matiere: str
     niveau: str
     theme: str
-    duree: str
+    duree: int
 
 
 class LessonStep(BaseModel):
     phase: str
-    duree: str
+    duree: int
     description: str
 
 
