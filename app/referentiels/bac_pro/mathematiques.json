@@ -1,0 +1,13 @@
+{
+  "diplome": "Baccalauréat professionnel",
+  "discipline": "Mathématiques",
+  "niveau": "Terminale",
+  "modules": [
+    {
+      "nom": "Fonction exponentielle",
+      "objectifs": [],
+      "capacites_connaissances": [],
+      "commentaires": []
+    }
+  ]
+}
